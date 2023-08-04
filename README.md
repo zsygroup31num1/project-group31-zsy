@@ -1,6 +1,25 @@
 # project-group31-zsy
 本次作业共实现16个project，具体实现方式及效果都在各个project仓库的readme中有所体现，麻烦老师们查阅。
 
+组号：Group 31  
+
+姓名：张凇源  
+
+学号：202100460109  
+
+项目贡献说明：个人独立完成  
+
+硬件环境  
+
+处理器：12th Gen Intel(R) Core(TM) i7 12700H @ 2.40GHz  
+内存：16.0 GB (15.8 GB 可用 )  
+
+软件环境  
+
+Win 11操作系统  
+Microsoft Visual Studio 2022  
+Pycharm  
+
 ### project1：  
 https://github.com/zsygroup31num1/project1-group31
 ### project2：  
